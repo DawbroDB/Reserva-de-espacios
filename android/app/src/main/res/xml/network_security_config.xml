@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- MVP académico: el backend Spring Boot corre en HTTP dentro de la red local
+     (10.0.2.2 desde el emulador o la IP del PC desde un teléfono).
+     En producción se debe usar HTTPS y eliminar este permiso. -->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reserva de Salas</string>
+    <string name="canal_recordatorios">Recordatorios de reservas</string>
+    <string name="canal_recordatorios_desc">Avisa antes del inicio de tus sesiones agendadas</string>
+</resources>

@@ -1,0 +1,19 @@
+# Builds de Gradle
+.gradle/
+build/
+**/build/
+
+# Local
+local.properties
+
+# IDE / Kotlin
+.idea/
+*.iml
+.kotlin/
+captures/
+.externalNativeBuild/
+
+# Firma release: nunca subir la llave ni sus contraseñas
+keystore.properties
+*.jks
+*.keystore
