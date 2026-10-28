@@ -1,0 +1,7 @@
+# IDE abierto en la raíz del repositorio
+.idea/
+*.iml
+
+# Archivos locales que no forman parte del proyecto
+referencias/
+CLAUDE.md
